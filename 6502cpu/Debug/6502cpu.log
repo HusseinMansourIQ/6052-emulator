@@ -1,0 +1,4 @@
+﻿  6502cpu.cpp
+C:\Users\Hussein_PR\source\repos\6502cpu\6502cpu\6502cpu.cpp(46,1): warning C4305: '=': truncation from 'int' to 'Byte'
+C:\Users\Hussein_PR\source\repos\6502cpu\6502cpu\6502cpu.cpp(46,14): warning C4309: '=': truncation of constant value
+  6502cpu.vcxproj -> C:\Users\Hussein_PR\source\repos\6502cpu\Debug\6502cpu.exe
